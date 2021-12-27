@@ -4,6 +4,7 @@
         "link": "https://www.vlab.co.in/broad-area-civil-engineering"
     },
     "lab": "Virtual Strength of Materials Lab",
+    "display_lab_name": "Strength of Materials Lab"
     "deployLab": true,
     "phase": 2,
     "collegeName": "NITS",
