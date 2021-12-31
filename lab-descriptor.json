@@ -112,18 +112,26 @@
   ],
   "targetAudience": {
     "UG": [
-      "This course is also useful for diploma in Civil Engineering students."
+      "B.E/ B.Tech in Civil Engineering or Mechanical Engineering",
+      "Diploma in Civil Engineering or Mechanical Engineering"
     ],
     "PG": [
-      "This course is primarily for pre-final and/or final year students of Bachelor's course in civil Engineering."
+      "M.Tech/ MS in Structural Engineering or Earthquake Engineering or Material Engineering"
     ]
   },
   "objective": "This laboratory provides the basic knowledge of the strength of materials and here, the students can perform different tests on different materials.",
   "courseAlignment": {
-    "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab",
-    "universities": ["Strength of Materials", "Mechanics Material"]
+    "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab :",
+    "universities": [
+      "Strength of Materials - National Institute of Technology Karnataka Surathkal, Visvesvaraya Technological University, Anna University, Vellore Institute of Technology",
+      "Building Materials Testing Laboratory - Visvesvaraya Technological University",
+      "Mechanics of Materials - Goa University",
+      "Strength of Materials Laboratory - Anna University",
+      "Structural mechanics -Ⅰ- Jadavpur University",
+      "Structural Mechanics -ⅠⅠ - Jadavpur University"
+    ]
   },
   "exp_name": "Torsion Test on Mild Steel",
   "exp_short_name": "torsion-test-mild-steel",
-  "version": "v0.3.0"
+  "version": "v0.4.0"
 }
