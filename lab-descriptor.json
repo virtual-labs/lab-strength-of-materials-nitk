@@ -29,21 +29,21 @@
       "name": "Direct Shear Test on Mild Steel Rod",
       "short-name": "direct-shear-test-steel-rod",
       "repo": "https://github.com/virtual-labs/exp-direct-shear-test-steel-rod-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Direct Shear Test on Timber Specimen",
       "short-name": "direct-shear-test-timber",
       "repo": "https://github.com/virtual-labs/exp-direct-shear-test-timber-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Direct Shear Test on Mild Steel Plate",
       "short-name": "direct-shear-test-steel-plate",
       "repo": "https://github.com/virtual-labs/exp-direct-shear-test-steel-plate-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -78,35 +78,35 @@
       "name": "Tensile Test on Mild Steel",
       "short-name": "tensile-test-mild-steel",
       "repo": "https://github.com/virtual-labs/exp-tensile-test-mild-steel-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Tensile Test on Cast Iron",
       "short-name": "tensile-test-cast-iron",
       "repo": "https://github.com/virtual-labs/exp-tensile-test-cast-iron-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Compression Test on Mild Steel",
       "short-name": "compression-test-mild-steel",
       "repo": "https://github.com/virtual-labs/exp-compression-test-mild-steel-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Compression Test on Cast Iron",
       "short-name": "compression-test-cast-iron",
       "repo": "https://github.com/virtual-labs/exp-compression-test-cast-iron-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Torsion Test on Mild Steel",
       "short-name": "torsion-test-mild-steel",
       "repo": "https://github.com/virtual-labs/exp-torsion-test-mild-steel-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -133,5 +133,5 @@
   },
   "exp_name": "Torsion Test on Mild Steel",
   "exp_short_name": "torsion-test-mild-steel",
-  "version": "v0.4.0"
+  "version": "v0.5.0"
 }
