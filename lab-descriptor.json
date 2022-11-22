@@ -7,7 +7,7 @@
   "lab_display_name": "Strength of Materials Lab",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "NITS",
+  "collegeName": "NITK",
   "baseUrl": "sm-nitk.vlabs.ac.in",
   "introduction": "Welcome to Strength of Materials Lab. The strength of the material is the body of knowledge that deals with the relation between internal forces, deformations and external loads, etc.",
   "experiments": [
@@ -133,5 +133,5 @@
   },
   "exp_name": "Torsion Test on Mild Steel",
   "exp_short_name": "torsion-test-mild-steel",
-  "version": "v0.5.0"
+  "version": "v0.6.0"
 }
