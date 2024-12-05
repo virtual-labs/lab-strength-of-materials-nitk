@@ -51,7 +51,7 @@
       "name": "Brinell Hardness Test",
       "short-name": "brinell-hardness-test",
       "repo": "https://github.com/virtual-labs/exp-brinell-hardness-test-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -65,7 +65,7 @@
       "name": "Rockwell Hardness Test",
       "short-name": "rockwell-hardness-test",
       "repo": "https://github.com/virtual-labs/exp-rockwell-hardness-test-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
